@@ -1,0 +1,14 @@
+Komentarze
+
+Komentarze są najważniejszą częścią code review.
+
+Tutaj można popełnić wiele błędów ale też sprawić że przegląd będzie bardzo pozytywnie odebrany.
+
+
+Po pierwsze niech Twoje komentarze będą w formie pytania, sugestii a nie rozkazu.
+
+Dobrym przykładem może być “Co myślisz o zmianie nazwy…”, “Dlaczego użyłeś…”. Ich odbiór w porównaniu do np “Zmień to” jest całkiem inny.
+
+Kolejnym plusem tego podejścia jest, to że otwierają pole do dyskusji a autor może się zastanowić.
+
+Komentarze muszą być jasne, konstruktywne i wnosić jakąś wartość. “Zmień to”, “Każdy zrobiłby to lepiej” to właściwie strata czasu. Lepiej powiedz konkretnie, że np możesz użyć wzorca x lub biblioteka y ma tą metodę.
